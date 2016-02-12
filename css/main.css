@@ -20,16 +20,19 @@ html {
   box-sizing: inherit;
 }
 
+svg{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
 .bandage{
-  width:100%;
 }
 
 .bottle{
-  width:100%;
 }
 
 .car{
-  width:100%;
 }
 
 body {

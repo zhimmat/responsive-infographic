@@ -19,3 +19,19 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.whitenurses{
+background-color: #77b39a;
+}
+
+.bluenurses{
+background-color: #77b39a;
+}
+
+.icons{
+  background-color: #73ae95;
+}
+
+.bottom{
+  background-color: #6fa890;
+}
